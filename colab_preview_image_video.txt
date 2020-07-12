@@ -1,0 +1,4 @@
+
+Code to preview image and video in Colab
+You need to store the image and video in your own Google drive. We will cover more about it in the class The Google Colab link is here
+https://colab.research.google.com/drive/1gcRaEuSNRZ9wGYu9i1JvaE01ATN8VUr4?usp=sharing 
